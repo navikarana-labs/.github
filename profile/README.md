@@ -1,16 +1,31 @@
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="../assets/logo-readme-light.svg">
+
+  <!-- Dark mode content handled separately below -->
+</picture>
+
+<div class="dark-only">
+
 <table>
   <tr>
     <td>
       <a href="https://navikarana.io">
-        <img src="../assets/navikarana-logo.png" alt="Navikarana Labs" height="110">
+        <img
+          src="../assets/logo-tile.png"
+          alt="Navikarana Labs"
+          width="120"
+        >
       </a>
     </td>
     <td>
-      <h2>Navikarana Labs</h2>
-      <p>Independent research and engineering.</p>
+      <a href="https://navikarana.io">
+        <strong>Navikarana Labs</strong>
+      </a>
     </td>
   </tr>
 </table>
+
+</div>
 
 Navikarana Labs is my independent research and engineering lab.
 
