@@ -2,23 +2,15 @@
   <tr>
     <td>
       <a href="https://navikarana.io">
-        <picture>
-          <source
-            media="(prefers-color-scheme: dark)"
-            srcset="../assets/logo-tile.png"
-          >
-          <img
-            src="../assets/logo-tile.png"
-            alt="Navikarana Labs"
-            width="120"
-          >
-        </picture>
+        <img
+          src="../assets/logo-tile.png"
+          alt="Navikarana Labs"
+          width="180"
+        >
       </a>
     </td>
     <td>
-      <a href="https://navikarana.io">
-        <strong>Navikarana Labs</strong>
-      </a>
+      <h1>Navikarana Labs</h1>
     </td>
   </tr>
 </table>
