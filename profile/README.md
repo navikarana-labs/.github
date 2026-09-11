@@ -1,20 +1,18 @@
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="../assets/logo-readme-light.svg">
-
-  <!-- Dark mode content handled separately below -->
-</picture>
-
-<div class="dark-only">
-
 <table>
   <tr>
     <td>
       <a href="https://navikarana.io">
-        <img
-          src="../assets/logo-tile.png"
-          alt="Navikarana Labs"
-          width="120"
-        >
+        <picture>
+          <source
+            media="(prefers-color-scheme: dark)"
+            srcset="../assets/logo-tile.png"
+          >
+          <img
+            src="../assets/logo-tile.png"
+            alt="Navikarana Labs"
+            width="120"
+          >
+        </picture>
       </a>
     </td>
     <td>
@@ -24,8 +22,6 @@
     </td>
   </tr>
 </table>
-
-</div>
 
 Navikarana Labs is my independent research and engineering lab.
 
