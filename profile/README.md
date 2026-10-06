@@ -6,3 +6,5 @@ independent ventures.
 **The first Navikarana projects are now in development.**
 
 More details will be published [here](https://navikarana.io/projects).
+
+Subscribe to my [newsletter](https://loke.sh/blog/newsletter) to stay updated.
