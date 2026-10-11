@@ -1,10 +1,17 @@
-[**Navikarana Labs**](https://navikarana.io) is an independent research and engineering lab by [Lokesh Kumar N.](https://loke.sh)
+# Navikarana Labs
 
-This is a place for serious technical work that can grow into open-source technology, products, long-term research, or
-independent ventures.
+**Independent research & engineering.**
 
-**The first Navikarana projects are now in development.**
+Navikarana Labs is an independent research and engineering effort by [Lokesh Kumar N.](https://loke.sh), exploring and building technical systems across hardware, software, and embedded engineering.
 
-More details will be published [here](https://navikarana.io/projects).
+### Project 001 — Ananta
 
-Subscribe to my [newsletter](https://loke.sh/blog/newsletter) to stay updated.
+**Distributed Fault-Tolerant Robotic System**
+
+A distributed embedded-control system designed to detect and diagnose failures, reassign critical responsibilities, and recover safely. A tracked robotic rover will serve as its initial test platform.
+
+[View project →](https://navikarana.io/projects/001-ananta/)
+
+---
+
+[Website](https://navikarana.io) · [Writing](https://loke.sh/blog/) · [Newsletter](https://loke.sh/newsletter/)
