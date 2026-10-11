@@ -1,12 +1,13 @@
 [Navikarana Labs](https://navikarana.io) is an independent research and engineering effort by [Lokesh Kumar N.](https://loke.sh), exploring and building technical systems across hardware, software, and embedded engineering.
 
-### Project 001 — Ananta
+### Project Ananta
+
+[[PROJECT 001]](https://navikarana.io/projects/001-ananta/)
 
 **Distributed Fault-Tolerant Robotic System**
 
-A distributed embedded-control system designed to detect and diagnose failures, reassign critical responsibilities, and recover safely. A tracked robotic rover will serve as its initial test platform.
+A distributed embedded-control system designed to detect and diagnose failures, reassign critical responsibilities, and recover safely. A tracked robotic rover will serve as its initial test platform. [More details →](https://navikarana.io/projects/001-ananta/)
 
-[View project →](https://navikarana.io/projects/001-ananta/)
 
 ---
 
