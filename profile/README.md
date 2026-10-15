@@ -2,11 +2,14 @@
 
 ## Active Projects
 
-### [PROJECT 001](https://navikarana.io/projects/001-ananta/) - [Project Ananta](https://github.com/navikarana-labs/ananta)
+### [001](https://navikarana.io/projects/001-ananta/) - Project Ananta
 
 **Distributed Fault-Tolerant Robotic System**
 
-A distributed embedded-control system designed to detect and diagnose failures, reassign critical responsibilities, and recover safely. A tracked robotic rover will serve as its initial test platform. [More details →](https://navikarana.io/projects/001-ananta/)
+A distributed embedded-control system designed to detect and diagnose failures, reassign critical responsibilities, and recover safely. A tracked robotic rover will serve as its initial test platform. 
+  - [Project Page](https://navikarana.io/projects/001-ananta/)
+  - [Writing](https://loke.sh/blog/navikarana-project-ananta/)
+  - [Repository](https://github.com/navikarana-labs/ananta)
 
 ---
 
