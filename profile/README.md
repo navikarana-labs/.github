@@ -13,4 +13,4 @@ A distributed embedded-control system designed to detect and diagnose failures, 
 
 ---
 
-[Website](https://navikarana.io) · [Writing](https://loke.sh/blog/) · [Newsletter](https://loke.sh/blog/newsletter/)
+[Website](https://navikarana.io) · [Writing](https://loke.sh/tags/navikarana-labs/) · [Newsletter](https://loke.sh/blog/newsletter/)
